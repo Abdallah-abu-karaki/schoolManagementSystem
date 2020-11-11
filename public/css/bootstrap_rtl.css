@@ -1,0 +1,11 @@
+.second_navbar .content-left-nav{
+    padding-top:10px;
+    float:right;
+}
+.second_navbar .content-right-nav{
+    padding-top:6px;
+    float:left;
+}
+body{
+    background-color: #1a202c;
+}
